@@ -9,9 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@microsoft/fetch-event-source": "^2.0.1",
+    "i": "^0.3.7",
     "next": "16.0.10",
+    "npm": "^11.7.0",
     "react": "19.2.1",
-    "react-dom": "19.2.1"
+    "react-dom": "19.2.1",
+    "zustand": "^5.0.9"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
